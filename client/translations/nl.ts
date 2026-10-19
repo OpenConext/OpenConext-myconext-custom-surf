@@ -5,5 +5,12 @@ export const nlOverride: AppTranslationOverride = {
         productName: "eduID",
     },
     code: "NL",
-    languages: {},
+    languages: {
+        language: 'Taal',
+        en: 'Engels',
+        nl: 'Nederlands',
+    },
+    login: {
+        title: 'Inloggen met eduID',
+    },
 }
