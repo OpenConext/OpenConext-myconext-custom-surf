@@ -1,10 +1,10 @@
-import { AppTranslationOverride} from "../../../locale/translationType";
+import type { AppTranslationOverride } from '../../../locale/translationType';
 
 export const nlOverride: AppTranslationOverride = {
     globalVariables: {
-        productName: "eduID",
+        productName: 'eduID',
     },
-    code: "NL",
+    code: 'NL',
     languages: {
         language: 'Taal',
         en: 'Engels',
@@ -13,4 +13,4 @@ export const nlOverride: AppTranslationOverride = {
     login: {
         title: 'Inloggen met eduID',
     },
-}
+};

@@ -1,10 +1,10 @@
-import { AppTranslationOverride} from "../../../locale/translationType";
+import type { AppTranslationOverride } from '../../../locale/translationType';
 
 export const enOverride: AppTranslationOverride = {
     globalVariables: {
-        productName: "eduID",
+        productName: 'eduID',
     },
-    code: "EN",
+    code: 'EN',
     languages: {
         language: 'Language',
         en: 'English',
@@ -13,4 +13,4 @@ export const enOverride: AppTranslationOverride = {
     login: {
         title: 'Log in with eduID',
     },
-}
+};
