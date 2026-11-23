@@ -1,4 +1,5 @@
-import type { AppCustomization } from '../../contexts/CustomizationContext';
+import type { AppCustomization } from '@myconext/shared-gui';
+
 import Logo from './logo-surf.svg';
 
 export const appCustomization: AppCustomization = {
