@@ -1,0 +1,1 @@
+export { appCustomization } from './myCustomApp';
