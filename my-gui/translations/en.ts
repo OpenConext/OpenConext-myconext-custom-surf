@@ -9,8 +9,9 @@ export const enOverride: AppTranslationOverride = {
         language: 'Language',
         en: 'English',
         nl: 'Dutch',
+        pt: 'Portuguese',
     },
-    login: {
-        title: 'Log in with eduID',
+    home: {
+        lead: 'Here you can view and edit your details, decide how you log in and manage which institutions and services your eduID is linked to.',
     },
 };
