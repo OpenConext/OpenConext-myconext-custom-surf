@@ -9,6 +9,7 @@ export const enOverride: AppTranslationOverride = {
         language: 'Language',
         en: 'English',
         nl: 'Dutch',
+        pt: 'Portuguese',
     },
     login: {
         title: 'Log in with eduID',
