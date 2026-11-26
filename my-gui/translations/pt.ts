@@ -1,6 +1,6 @@
-import type { AppTranslationOverride } from '../../../locale/translationType';
+import type { AppTranslation } from '@myconext/shared-gui';
 
-export const ptOverride: AppTranslationOverride = {
+export const ptOverride: AppTranslation = {
     globalVariables: {
         productName: 'eduID',
     },
